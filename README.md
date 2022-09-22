@@ -23,4 +23,4 @@ et le client sera dans la DB
 - Supprimer une réservation avec son id client et la date de la réservation
 - Afficher réservation pour visualiser les réservation et double cliquer pour modifier
 - idem pour afficher le stock
-- bouton pour afficher le client qui a le plus dépenser
+- bouton pour afficher le client qui a le plus dépensé
