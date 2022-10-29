@@ -1,3 +1,10 @@
+# Conception mini interface gestion stock d'un restaurant fictif
+
+Création d'une interface pour un restaurant fictif en Python avec une BDD (avec sqlite3)
+Gestion des clients, de l'inventaire et des recettes.
+
+# Explications
+
 database.db sert d'intermédiaire pour intéragir avec les tables de la BD
 
 tablesql.py sert à importer dans l'application les tables et les insertions de la BD
